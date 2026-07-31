@@ -166,9 +166,9 @@ shop.exe
 
 ## 👨‍💻 Author
 
-**Maruf Hussain Mahi**
-**Taqi Tahmid**
-**Bashir Shahrier Nahid**
+**Maruf Hussain Mahi,**
+**Taqi Tahmid,**
+**Bashir Shahrier Nahid,**
 **Jaber Bin Huda**
 Computer Science & Engineering (CSE)  
 Sylhet Engineering College
