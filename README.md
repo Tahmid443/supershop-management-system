@@ -50,7 +50,6 @@ A console-based **Super Shop Management System** developed in **C**. This projec
   - File Handling
   - String Manipulation
   - Date & Time
-  - Menu-Driven Programming
 
 ---
 
@@ -59,12 +58,7 @@ A console-based **Super Shop Management System** developed in **C**. This projec
 ```
 Super-Shop-Management-System/
 │
-├── main.c
-├── products.dat
-├── bills.dat
-├── users.dat
-├── products_backup.dat
-├── bills_backup.dat
+├── project.c
 └── README.md
 ```
 
@@ -97,15 +91,6 @@ When running the program for the first time, a default administrator account is 
 
 ---
 
-## 💸 Discount Policy
-
-| Purchase Amount | Discount |
-|-----------------|----------|
-| Above $500 | 10% |
-| Above $200 | 5% |
-| $200 or Below | No Discount |
-
----
 
 ## 💾 Data Storage
 
@@ -181,7 +166,10 @@ shop.exe
 
 ## 👨‍💻 Author
 
-**Mahi Hussain**  
+**Maruf Hussain Mahi**
+**Taqi Tahmid**
+**Bashir Shahrier Nahid**
+**Jaber Bin Huda**
 Computer Science & Engineering (CSE)  
 Sylhet Engineering College
 
