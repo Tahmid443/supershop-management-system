@@ -4,7 +4,7 @@
 #include <time.h>
 
 #define MAX_PRODUCTS 100
-#define MAX_CUSTOMERS 50
+#define MAX_CUSTOMERS 200
 #define MAX_BILLS 200
 #define MAX_NAME 50
 #define MAX_PASSWORD 20
